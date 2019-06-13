@@ -19,16 +19,16 @@
             </ol>
             <div class="carousel-inner" role="listbox">
                 <div class="item active">
-                    <img class="img-circle" src="resources/images/electronics world.jpg" alt="first slide" height="100%" width="100%">
+                    <img class="img-circle" src="resources/images/bg1.jpg" alt="Watches" height="100%" width="100%">
                     <div class="container">
                         <div class="carousel-caption">
-                            <h1>WELCOME TO THE ELECTRONICS WORLD</h1>
-                            <p>Biringing The World Of Electronics Together</p>
+                            <h1>THE WATCH KINGDOM WELCOME YOU</h1>
+                            <p>SHOW</p>
                         </div>
                     </div>
                 </div>
                 <div class="item">
-                    <img class="img-circle" src="resources/images/all in one world.jpg" alt="Second slide" height="100%" width="100%">
+                    <img class="img-circle" src="resources/images/bg2.jpg" alt="Second slide" height="100%" width="100%">
                     <div class="container">
                         <div class="carousel-caption">
                             <h1>ALL IN ONE WORLD</h1>
@@ -37,7 +37,7 @@
                     </div>
                 </div>
                 <div class="item">
-                    <img class="img-circle" src="resources/images/laptop.jpg" alt="Third slide" height="100%" width="100%">
+                    <img class="img-circle" src="resources/images/bg3.jpg" alt="Third slide" height="100%" width="100%">
                     <div class="container">
                         <div class="carousel-caption">
                             <h1>LOVE YOUR WORK, MAKE TIME RELAX TO SEE THE WORLD</h1>
@@ -46,7 +46,7 @@
                     </div>
                 </div>
                  <div class="item">
-                    <img class="img-circle" src="resources/images/imagination.jpg" alt="forth slide" height="100%" width="100%">
+                    <img class="img-circle" src="resources/images/bg4.jpg" alt="forth slide" height="100%" width="100%">
                     <div class="container">
                         <div class="carousel-caption">
                             <h1>MORE U LOVE MORE U CAN BUY</h1>
