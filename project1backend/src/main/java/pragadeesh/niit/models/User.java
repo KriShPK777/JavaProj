@@ -8,7 +8,30 @@ import javax.persistence.OneToOne;
 public class User {//Authentication
 	@Id
 private String email;
+private String username;
+boolean Enabled;
+private String Role;
+private String Customername;
 private String password;
+private String Address;
+public String getUsername() {
+	return username;
+}
+public void setUsername(String username) {
+	this.username = username;
+}
+public String getRole() {
+	return Role;
+}
+public void setRole(String role) {
+	Role = role;
+}
+public String getCustomername() {
+	return Customername;
+}
+public void setCustomername(String customername) {
+	Customername = customername;
+}
 private boolean enabled;
 @OneToOne(mappedBy="user",cascade=CascadeType.ALL)
 private Customer customer;
@@ -44,5 +67,10 @@ public Authorities getAuthorities() {
 public void setAuthorities(Authorities authorities) {
 	this.authorities = authorities;
 }
-
+public String getAddress() {
+	return Address;
+}
+public void setAddress(String address) {
+	Address = address;
+}
 }
