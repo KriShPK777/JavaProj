@@ -1,7 +1,5 @@
 package pragadeesh.ecomm.test;
 
-import static org.junit.Assert.assertTrue;
-
 import java.util.function.Supplier;
 
 import org.junit.BeforeClass;
@@ -19,13 +17,13 @@ class UserDaoTest {
 		public static void initialize()
 		{
 			AnnotationConfigApplicationContext context = new AnnotationConfigApplicationContext();
-			context.scan("com.ecomm");
+			context.scan("pragadeesh.ecomm");
 			context.refresh();
 			
 			userDao = (UserDaoTest) context.getBean("userDao");
 		}
 		
-		@Ignore
+		
 		@Test
 		public void registerUserTest()
 		{
@@ -36,6 +34,7 @@ class UserDaoTest {
 			user.setRole("Admin");
 			user.setEnabled(true);
 			user.setAddress("Chennai");
+			user.setEmail("PK787@gmail.com");
 			
 			assertTrue("Problem in Adding User", userDao.registerUser(user));
 			System.out.println("\n");
