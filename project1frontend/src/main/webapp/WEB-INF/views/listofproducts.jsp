@@ -18,11 +18,12 @@ $(document).ready(function(){
 })
 </script>
 </head>
-<body>
+<body background="resources/images/bg6.png">
+
 
 	<div class="container">
 		<b>List of Products</b>
-		<table class="table table-striped" border="1">
+		<table class="table table-striped" border="3">
 			<thead>
 				<tr>
 					<th>Id</th>

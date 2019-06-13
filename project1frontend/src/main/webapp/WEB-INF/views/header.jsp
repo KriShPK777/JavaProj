@@ -28,7 +28,7 @@
 	<nav class="navbar navbar-inverse">
   <div class="container-fluid">
     <div class="navbar-header">
-				<a href="" class="navbar-brand"><img src="<c:url value='/resources/images/simple img.jpg'></c:url>" alt="NIIT" height="30px" width="70px"></a>
+				<a href="" class="navbar-brand"><img src="<c:url value='/resources/images/p8.jpg'></c:url>" alt="ESTORE" height="30px" width="20px"></a>
 			<button type="button" class="navbar-toggle collapsed" 
    data-toggle="collapse" data-target="#navbardemo" aria-expanded="false">
         <span class="sr-only">Toggle navigation</span>

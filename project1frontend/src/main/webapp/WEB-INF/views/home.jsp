@@ -7,7 +7,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Insert title here</title>
 </head>
-<body>
+<body background="resources/images/bg7.jpg">
 <div class="container">
 <div id="myCarousel" class="carousel slide" data-ride="carousel">
             <!-- Indicators -->
@@ -22,8 +22,8 @@
                     <img class="img-circle" src="resources/images/bg1.jpg" alt="Watches" height="100%" width="100%">
                     <div class="container">
                         <div class="carousel-caption">
-                            <h1>THE WATCH KINGDOM WELCOME YOU</h1>
-                            <p>SHOW</p>
+                            <h1>THE WATCH KINGDOM WELCOMES YOU</h1>
+                            <p>SHOWCASING DIFFERENT VARITIES TO YOUR LIKING</p>
                         </div>
                     </div>
                 </div>
@@ -31,8 +31,8 @@
                     <img class="img-circle" src="resources/images/bg2.jpg" alt="Second slide" height="100%" width="100%">
                     <div class="container">
                         <div class="carousel-caption">
-                            <h1>ALL IN ONE WORLD</h1>
-                            <p>Art of Invisibility</p>
+                            <h1>TIME WAITS FOR NONE</h1>
+                            <p>BETTER TO KEEP IT IN YOUR HANDS</p>
                         </div>
                     </div>
                 </div>
@@ -40,8 +40,8 @@
                     <img class="img-circle" src="resources/images/bg3.jpg" alt="Third slide" height="100%" width="100%">
                     <div class="container">
                         <div class="carousel-caption">
-                            <h1>LOVE YOUR WORK, MAKE TIME RELAX TO SEE THE WORLD</h1>
-                            <p>Invention Breeds Innovation!!</p>
+                            <h1>ENJOY YOUR WORK, MAKE TIME RELAX TO SEE THE WORLD</h1>
+                            <p>TIME IS OF THE ESSENCE!!!</p>
                         </div>
                     </div>
                 </div>
@@ -49,8 +49,8 @@
                     <img class="img-circle" src="resources/images/bg4.jpg" alt="forth slide" height="100%" width="100%">
                     <div class="container">
                         <div class="carousel-caption">
-                            <h1>MORE U LOVE MORE U CAN BUY</h1>
-                            <p>online shopping can make your life more easier!!</p>
+                            <h1>TIME IS AN UNSTOPPABLE FORCE</h1>
+                            <p>IT IS IMPORTANT TO STAY INTACT WITH IT!!</p>
                         </div>
                     </div>
                 </div>
